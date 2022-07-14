@@ -1,0 +1,11 @@
+<?php get_header() ?>
+  <?php get_template_part('inc/index','slider') ?>
+  <?php get_template_part('inc/index','service') ?>
+  <?php get_template_part('inc/index','trust') ?>
+  <?php get_template_part('inc/index','count') ?>
+  <?php get_template_part('inc/index','work') ?>
+  <?php get_template_part('inc/index','team') ?>
+  <?php get_template_part('inc/index','question') ?>
+  <?php get_template_part('inc/index','comment') ?>
+  <?php get_template_part('inc/index','blog') ?>
+<?php get_footer() ?>
